@@ -6,9 +6,9 @@ A fully functional and responsive clone of the Myntra e-commerce platform built 
 
 ## Demo
 
-Insert gif or link to demo
+Link to demo
 
-> 🔗 [Live Site](#) — *(garvit-my-clone.netlify.app)*
+> 🔗 [garvit-my-clone.netlify.app](#)
 
 ## Features
 - 🔍 Live product **Search**
